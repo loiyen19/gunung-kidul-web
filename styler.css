@@ -1,0 +1,29 @@
+h2{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	text-shadow: 10px;
+	background-color: #FAEA48;
+	font-family: cambrias;
+	border-radius: 5px;
+
+}
+footer{
+	padding-top: 20px;
+	margin-top: 20px;
+}
+
+.display-1{
+	font-family: cambrias;
+	color: black;
+	padding-top: 10px;
+	padding-bottom: 10pxs;
+}
+.nav-link{
+	font-family: cambrias;
+	font-size: 19px;
+}
+.lead{
+	font-family: cambrias;
+	color: black;
+}
